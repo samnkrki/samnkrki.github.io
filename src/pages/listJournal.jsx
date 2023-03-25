@@ -1,7 +1,8 @@
 import { TableField } from "../components/table";
 
-export function JournalListPage() {
+export function JournalListPage({datasource=[], onSearchChange}) {
     return <div>
-        <TableField/>
+        <input type={"date"} onChange={onSearchChange}/>
+        <TableField datasource={datasource}/>
     </div>
 }
