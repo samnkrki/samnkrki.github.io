@@ -46,7 +46,7 @@ function App() {
   useEffect(() => {
     setJournalData(listData.limit, listData.currentPage);
   }, [])
-console.log(listData)
+
   return (
     <div className="App">
       <h5>Add new Journal Here</h5>
