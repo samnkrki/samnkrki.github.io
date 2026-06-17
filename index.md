@@ -1,7 +1,7 @@
 # Samin Karki
 **Senior Software Engineer / Full Stack Developer**
 Bhaktapur, Nepal | +977-9860906101 | samn_krki@live.com
-[LinkedIn](http://www.linkedin.com/in/samin-karki) | [GitHub](https://github.com/samnkrki) | [Portfolio](www.saminkarki.com.np)
+[LinkedIn](http://www.linkedin.com/in/samin-karki) | [GitHub](https://github.com/samnkrki) | [Portfolio](https://www.saminkarki.com.np)
 
 ---
 
