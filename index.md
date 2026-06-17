@@ -1,12 +1,12 @@
 # Samin Karki
 **Senior Software Engineer / Full Stack Developer**
 Bhaktapur, Nepal | +977-9860906101 | samn_krki@live.com
-[LinkedIn](http://www.linkedin.com/in/samin-karki) | [GitHub](https://github.com/samnkrki) | [Portfolio](http://www.saminkarki.com.np)
+[LinkedIn](http://www.linkedin.com/in/samin-karki) | [GitHub](https://github.com/samnkrki) | [Portfolio](www.saminkarki.com.np)
 
 ---
 
 ## PROFESSIONAL SUMMARY
-Performance-driven Senior Software Engineer with over 6 years of experience architecting, building, and deploying scalable full-stack applications. Expert in TypeScript/JavaScript and Python ecosystems with deep technical proficiency across Node.js, React, Next.js, Remix, and Angular. Proven track record designing cloud-native system architectures on AWS and Azure, implementing automated CI/CD pipelines, and integrating enterprise-level AI/RAG orchestration workflows. Holds an M.Tech in Artificial Intelligence, blending advanced theoretical engineering with pragmatic, clean-code development to deliver high-throughput software solutions.
+Performance-driven Senior Software Engineer with over 7 years of experience architecting, building, and deploying scalable full-stack applications. Expert in TypeScript/JavaScript and Python ecosystems with deep technical proficiency across Node.js, React, Next.js, Remix, and Angular. Proven track record designing cloud-native system architectures on AWS and Azure, implementing automated CI/CD pipelines, and integrating enterprise-level AI/RAG orchestration workflows. Holds an M.Tech in Artificial Intelligence, blending advanced theoretical engineering with pragmatic, clean-code development to deliver high-throughput software solutions.
 
 ---
 
@@ -91,7 +91,7 @@ Performance-driven Senior Software Engineer with over 6 years of experience arch
 *   **Appliflo:** Developed a dynamic PDF rendering and generation application featuring interactive drag-and-drop structural fields, built with Next.js on the frontend and Nest.js/MySQL on the backend.
 *   **Agentcis:** Contributed full-stack updates to a comprehensive cloud CRM solution utilized by education and migration agencies globally to coordinate business pipelines (Vue.js / Laravel stack).
 *   **Patientmatch:** Engineered an iOS social networking and chat application backed by a Laravel framework on AWS EC2, featuring real-time chat sync via Firebase, Twilio SMS verification, and Redis queuing systems.
-*   **OHC Guide:** Created an online platform using Next.js to provide overseas health insurance comparisons, enabling interactive lookup across target service policies.
+*   **OHC Guide:** Created an online platform using Next.js to provide overseas health insurance comparisons, enabling interactive lookup across target service policies.[Site](https://www.ohcguide.com/)
 
 ---
 
