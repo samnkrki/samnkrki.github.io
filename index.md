@@ -22,8 +22,11 @@ Performance-driven Senior Software Engineer with over 7 years of experience arch
 
 ## PROFESSIONAL EXPERIENCE
 
+### **Techbay** - *Senior Full Stack Developer*
+**Ekantakuna, Lalitpur** | *June 2026 - Present*
+
 ### **PMSquare Nepal** — *Senior Full Stack Developer*
-**Thapathali, Kathmandu** | *July 2024 – Present*
+**Thapathali, Kathmandu** | *July 2024 – June 2026*
 *   Architect and maintain responsive, high-performance web applications using modern frontend technologies including React.js (Remix, Next.js) and Angular.
 *   Design, build, and secure low-latency RESTful APIs and backend services using Node.js, Python, relational databases (PostgreSQL, MySQL), and NoSQL architectures (DynamoDB, CosmosDB, MongoDB).
 *   Develop and integrate Retrieval-Augmented Generation (RAG) and Agentic AI systems using Amazon Bedrock Agents, watsonx Orchestrate, and OpenSearch to support enterprise intelligence automation.
