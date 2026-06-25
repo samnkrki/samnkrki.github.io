@@ -22,7 +22,7 @@ Performance-driven Senior Software Engineer with over 7 years of experience arch
 
 ## PROFESSIONAL EXPERIENCE
 
-### **Techbay** - *Senior Full Stack Developer*
+### **Tekbay** - *Senior Full Stack Developer*
 **Ekantakuna, Lalitpur** | *June 2026 - Present*
 
 ### **PMSquare Nepal** — *Senior Full Stack Developer*
